@@ -1,22 +1,3 @@
-/***
- Name: Nicole Wilbur
-
- Project Name: CSC372-CTA04
-
- Project Purpose: to save an arrayList of related list shape objects and print it out.
-
- Algorithm Used: abstract classes and inheritence to create objects of different shapes.
-
- Program Inputs: all doubles: length, width, base, rightSide, leftSide, radius, userMenuChoices
-
- Program Outputs: A list of all objects stored in the arrayList
-
- Program Limitations: none that I know of
-
- Program Errors: none that I know of
-
- ==================
- ***/
 package com.company;
 import static java.lang.Math.*;
 
